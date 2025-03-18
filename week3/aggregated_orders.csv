@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductName,Quantity,OrderDate,Price,TotalSales,CustomerName,CustomerAddress
+1,1,ProductA,2,2024-09-10,2000,4000,John Doe,123 Main St
+2,2,ProductB,1,2024-10-15,3000,3000,Jane Smith,456 Elm St
+3,3,ProductC,3,2024-11-20,1500,4500,Alice Johnson,789 Oak St
+4,4,ProductD,4,2024-12-05,1000,4000,Bob Lee,321 Pine St
+5,5,ProductE,2,2025-01-10,2500,5000,Chris Brown,654 Maple St
+6,6,ProductF,1,2025-02-15,3500,3500,Emily Davis,987 Birch St
+7,7,ProductG,3,2025-03-20,1200,3600,Michael Wilson,246 Cedar St
+8,8,ProductH,2,2025-04-05,1800,3600,Sarah Taylor,135 Walnut St
+9,9,ProductI,1,2025-05-10,4000,4000,David Clark,753 Spruce St
+10,10,ProductJ,5,2025-06-15,1000,5000,Olivia Lewis,864 Aspen St
